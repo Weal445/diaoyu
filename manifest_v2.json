@@ -1,0 +1,87 @@
+{
+  "item": {
+    "id": "com.keal.wristfishing",
+    "restype": "quick_app",
+    "name": "腕上钓鱼",
+    "description": "腕上也能模拟钓鱼佬\n像素风格的钓鱼小游戏\n内置鱼种类50 地图8张 鱼竿4种\n多元化钓鱼 体验不同鱼竿\n\n快速连点收杆 不够快它就跑了！\n咬钩时 快速收杆 快速连按\n内有海洋垃圾/靴子等道具等你发现\n\n完整的段位系统 任务系统\n恶魔挑战等你来完成\n50条鱼的图鉴 你能全部解锁吗？\n\n【腕上钓鱼】",
+    "preview": [
+      "media/14009.png",
+      "media/14006.png",
+      "media/14008.png",
+      "media/14012.png",
+      "media/14011.png",
+      "media/14010.png",
+      "media/14019.png",
+      "media/14020.png",
+      "media/14021.png"
+    ],
+    "icon": "media/14018.png",
+    "cover": "media/14022.png",
+    "author": [
+      {
+        "name": "Keal",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "前往获取激活码",
+      "url": "https://yun.txootd.cn/shop/KEAL",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼方屏.rpk",
+      "versionCode": 7
+    },
+    "xmrw5xring": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼方屏.rpk",
+      "versionCode": 7
+    },
+    "xmrw6": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼方屏.rpk",
+      "versionCode": 7
+    },
+    "xmb10p": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼方屏.rpk",
+      "versionCode": 7
+    },
+    "xmb9p": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼方屏.rpk",
+      "versionCode": 7
+    },
+    "xmb10": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼胶囊屏.rpk",
+      "versionCode": 7
+    },
+    "xmb10nfc": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼胶囊屏.rpk",
+      "versionCode": 7
+    },
+    "xmb11": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼胶囊屏.rpk",
+      "versionCode": 7
+    },
+    "xmb11nfc": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼胶囊屏.rpk",
+      "versionCode": 7
+    },
+    "xmb9": {
+      "version": "1.2.3",
+      "file_name": "downloads/腕上钓鱼胶囊屏.rpk",
+      "versionCode": 7
+    }
+  },
+  "ext": {}
+}
